@@ -13,5 +13,6 @@ typedef Event {
 
 typedef Calendar {
     name:String,
-    events:Array<Event>
+    events:Array<Event>,
+    color:Color
 }
